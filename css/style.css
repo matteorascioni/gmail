@@ -1,0 +1,61 @@
+body {
+ margin: 70px;
+ font-family: 'Roboto', sans-serif;
+
+ background-image: url("../img/wood.jpg");
+}
+
+/* header */
+
+#Logo
+{
+  height: 90px;
+  border-radius: 10%;
+  vertical-align: middle;
+}
+
+hr {
+border-width: 1px;
+border-color: white;
+}
+
+.name {
+  font-size: 30px;
+  color: white;
+}
+
+.counter {
+  color: white;
+  font-size: 28px;
+}
+
+#orange {
+  background-color: orange;
+  vertical-align: middle;
+  text-align: center;
+  display: table-cell;
+  line height: 35px;
+  font-size: 28px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%
+}
+
+/* main */
+
+.grey {
+  background-color: #d0d0d0;
+ color: black;
+}
+
+.white {
+  background-color: white;
+}
+
+/* footer */
+
+#footer {
+  text-align: center;
+color: white;
+  font-size: 40px;
+}
